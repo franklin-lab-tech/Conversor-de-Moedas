@@ -13,7 +13,6 @@ Um conversor de moedas moderno e responsivo.Desenvolvido com HTML, CSS e JavaScr
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
 
 
-## 📋 Pré-requisitos
 
 - Navegador moderno com suporte a ES6+ (Chrome, Firefox, Safari, Edge)
 - Conexão com internet para buscar taxas atuais
@@ -21,16 +20,12 @@ Um conversor de moedas moderno e responsivo.Desenvolvido com HTML, CSS e JavaScr
 
 ## 🚀 Como Usar
 
-
-
 ### . **Utilize o conversor**
    - Selecione a moeda de **origem** (Converter de)
    - Selecione a moeda de **destino** (Converter para)
    - Digite o valor
    - Clique em **Converter**
    
-
-
 
 
 4. **Conversão**
