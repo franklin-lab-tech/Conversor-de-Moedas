@@ -3,7 +3,7 @@ Um conversor de moedas moderno e responsivo.Desenvolvido com HTML, CSS e JavaScr
 
 ## ✨ Funcionalidades
 
-- **Conversão em Tempo Real**: Converta entre 6 moedas diferentes (Real, Dólar, Euro, Libra, Bitcoin e Rublo Russo)
+- **Conversão de várias moedas**: Converta entre 6 moedas diferentes (Real, Dólar, Euro, Libra, Bitcoin e Rublo Russo)
 
 - **Interface Responsiva**: Design adaptado para desktop, tablet e mobile
 
@@ -11,12 +11,9 @@ Um conversor de moedas moderno e responsivo.Desenvolvido com HTML, CSS e JavaScr
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
-
-
-
 - Navegador moderno com suporte a ES6+ (Chrome, Firefox, Safari, Edge)
-- Conexão com internet para buscar taxas atuais
 - Nenhuma instalação adicional necessária
+<img src="https://github.com/franklin-lab-tech/Conversor-de-Moedas/blob/main/assets/README.jpeg">
 
 ## 🚀 Como Usar
 
