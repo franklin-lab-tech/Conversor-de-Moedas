@@ -68,7 +68,7 @@ Este projeto é de código aberto e pode ser usado livremente para fins educacio
 
 ## 👨‍💻 Autor
 
-Desenvolvido como projeto educacional no DEVCLUB.
+Desenvolvido como projeto educacional no <a href="https://www.devclub.com.br/">DevClub </a>
 
 ## 🤝 Contribuições
 
