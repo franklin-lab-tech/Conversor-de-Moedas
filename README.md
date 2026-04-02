@@ -13,8 +13,13 @@ Um conversor de moedas moderno e responsivo.Desenvolvido com HTML, CSS e JavaScr
 - **Frontend**: HTML5, CSS3, JavaScript ES6+
 - Navegador moderno com suporte a ES6+ (Chrome, Firefox, Safari, Edge)
 - Nenhuma instalação adicional necessária
+
+<a href="https://franklin-lab-tech.github.io/Conversor-de-Moedas/">clique para ver a página online</a>
+
 <img src="https://github.com/franklin-lab-tech/Conversor-de-Moedas/blob/main/assets/README.jpeg">
-https://franklin-lab-tech.github.io/Conversor-de-Moedas/
+
+
+
 ## 🚀 Como Usar
 
 ### . **Utilize o conversor**
